@@ -1,0 +1,129 @@
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: C:\Program Files\ANSYS Inc\v252\AnsysEM\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 8:51:15 PM  Mar 28, 2026
+Running as user : CYRUS-JXGM\Cyrus
+Temp directory: C:\Users\Cyrus\AppData\Local\Temp
+Project directory: C:\Users\Cyrus\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 58884. 
+-- Message Window --
+Stopping Batch Run: 8:52:13 PM  Mar 28, 2026
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: C:\Program Files\ANSYS Inc\v252\AnsysEM\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:17:39 PM  Mar 28, 2026
+Running as user : CYRUS-JXGM\Cyrus
+Temp directory: C:\Users\Cyrus\AppData\Local\Temp
+Project directory: C:\Users\Cyrus\Documents\Ansoft
+[info] GRPC server running on port: 59710.
+
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Part Attributes: Name WG_Arm_X is already used, use name WG_Arm_X_1. (09:17:46 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Part Attributes: Name WG_Arm_Ypos is already used, use name WG_Arm_Ypos_1. (09:17:46 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Part Attributes: Name WG_Arm_Yneg is already used, use name WG_Arm_Yneg_1. (09:17:46 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Part Attributes: Name WG_SlotTool is already used, use name WG_SlotTool_1. (09:17:46 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Renormalizing the port impedance will not impact the field results if the 'Include Port Post Processing Effects' is disabled in Edit Sources. (09:17:46 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Renormalizing the port impedance will not impact the field results if the 'Include Port Post Processing Effects' is disabled in Edit Sources. (09:17:46 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Renormalizing the port impedance will not impact the field results if the 'Include Port Post Processing Effects' is disabled in Edit Sources. (09:17:46 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port1 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.918e+00 (09:17:51 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port2 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.922e+00 (09:17:51 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port3 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.904e+00 (09:17:51 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port1 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.922e+00 (09:17:53 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port2 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.899e+00 (09:17:53 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port3 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.907e+00 (09:17:53 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port1 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.919e+00 (09:17:55 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port2 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.894e+00 (09:17:56 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port3 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.908e+00 (09:17:56 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port1 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.917e+00 (09:17:58 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port2 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.892e+00 (09:17:58 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port3 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.908e+00 (09:17:58 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), A discrete frequency sweep with 91 point(s) has been started using HFSS - Solving Distributed. (09:19:07 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Discrete frequency sweep complete. (09:19:07 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Normal completion of simulation on server: Local Machine. (09:19:07 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), The variable  'Phase' doesn't have an associated sweep and is excluded from the definition of trace. (09:19:08 PM  Mar 28, 2026)
+Stopping Batch Run: 9:19:14 PM  Mar 28, 2026
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: C:\Program Files\ANSYS Inc\v252\AnsysEM\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:25:01 PM  Mar 28, 2026
+Running as user : CYRUS-JXGM\Cyrus
+Temp directory: C:\Users\Cyrus\AppData\Local\Temp
+Project directory: C:\Users\Cyrus\Documents\Ansoft
+[info] GRPC server running on port: 60012.
+
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Field plot 'TopSurface_Field' has been removed because solution setup cannot be used for field post processing. (09:25:08 PM  Mar 28, 2026)
+Stopping Batch Run: 9:25:16 PM  Mar 28, 2026
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: C:\Program Files\ANSYS Inc\v252\AnsysEM\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:30:45 PM  Mar 28, 2026
+Running as user : CYRUS-JXGM\Cyrus
+Temp directory: C:\Users\Cyrus\AppData\Local\Temp
+Project directory: C:\Users\Cyrus\Documents\Ansoft
+[info] GRPC server running on port: 60174.
+
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Field plot 'TopField_c83966_surf' has been removed because solution setup cannot be used for field post processing. (09:30:53 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Field plot 'TopField_c83966_surf' has been removed because solution setup cannot be used for field post processing. (09:30:53 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Field plot 'TopField_c83966_cut' has been removed because solution setup cannot be used for field post processing. (09:30:53 PM  Mar 28, 2026)
+Stopping Batch Run: 9:30:54 PM  Mar 28, 2026
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: C:\Program Files\ANSYS Inc\v252\AnsysEM\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:37:54 PM  Mar 28, 2026
+Running as user : CYRUS-JXGM\Cyrus
+Temp directory: C:\Users\Cyrus\AppData\Local\Temp
+Project directory: C:\Users\Cyrus\Documents\Ansoft
+[info] GRPC server running on port: 60351.
+
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Part Attributes: Name WG_Arm_X is already used, use name WG_Arm_X_2. (09:38:01 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), T_Junction: Solutions have been invalidated. Undo to recover. (09:38:01 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Part Attributes: Name WG_Arm_Ypos is already used, use name WG_Arm_Ypos_2. (09:38:01 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Part Attributes: Name WG_Arm_Yneg is already used, use name WG_Arm_Yneg_2. (09:38:01 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Part Attributes: Name WG_SlotTool is already used, use name WG_SlotTool_2. (09:38:01 PM  Mar 28, 2026)
+[error] Project:t_junction, Design:T_Junction (Modal Network), Script macro error: Duplicate boundary name: 'PEC_WaveguideWalls' (09:38:02 PM  Mar 28, 2026)
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: C:\Program Files\ANSYS Inc\v252\AnsysEM\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:41:41 PM  Mar 28, 2026
+Running as user : CYRUS-JXGM\Cyrus
+Temp directory: C:\Users\Cyrus\AppData\Local\Temp
+Project directory: C:\Users\Cyrus\Documents\Ansoft
+[info] GRPC server running on port: 60480.
+
+ 
+Ansys Electronics Desktop Version 2025.2.0, Build: 2025-05-16 12:03:40
+Location: C:\Program Files\ANSYS Inc\v252\AnsysEM\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 9:43:04 PM  Mar 28, 2026
+Running as user : CYRUS-JXGM\Cyrus
+Temp directory: C:\Users\Cyrus\AppData\Local\Temp
+Project directory: C:\Users\Cyrus\Documents\Ansoft
+[info] GRPC server running on port: 60548.
+
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Renormalizing the port impedance will not impact the field results if the 'Include Port Post Processing Effects' is disabled in Edit Sources. (09:43:16 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Renormalizing the port impedance will not impact the field results if the 'Include Port Post Processing Effects' is disabled in Edit Sources. (09:43:16 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), Renormalizing the port impedance will not impact the field results if the 'Include Port Post Processing Effects' is disabled in Edit Sources. (09:43:16 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port1 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.848e+00 (09:43:20 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port2 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.931e+00 (09:43:20 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port3 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.843e+00 (09:43:20 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port1 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.845e+00 (09:43:22 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port2 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.930e+00 (09:43:22 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port3 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.828e+00 (09:43:22 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port1 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.843e+00 (09:43:25 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port2 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.931e+00 (09:43:25 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port3 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.827e+00 (09:43:25 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port1 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.843e+00 (09:43:27 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port2 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.931e+00 (09:43:27 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Solving adaptive frequency ..., process hf3d: Port Port3 supports an additional propagating and/or slowly decaying mode whose attenuation is   0.000e+00 and propagation constant is   3.817e+00 (09:43:27 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), A discrete frequency sweep with 91 point(s) has been started using HFSS - Solving Distributed. (09:44:36 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Discrete frequency sweep complete. (09:44:36 PM  Mar 28, 2026)
+[info] Project:t_junction, Design:T_Junction (Modal Network), Normal completion of simulation on server: Local Machine. (09:44:36 PM  Mar 28, 2026)
+[warning] Project:t_junction, Design:T_Junction (Modal Network), The variable  'Phase' doesn't have an associated sweep and is excluded from the definition of trace. (09:44:37 PM  Mar 28, 2026)
+Stopping Batch Run: 9:44:38 PM  Mar 28, 2026

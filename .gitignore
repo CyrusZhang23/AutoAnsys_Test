@@ -1,0 +1,45 @@
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+pip-wheel-metadata/
+
+# --- Testing / typing / linters ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- IDE / editor ---
+.idea/
+*.swp
+*.swo
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Local HFSS / script outputs (large; regenerate with wg-hfss / wg-run-sim) ---
+output/
+
+# --- AEDT lock / recovery (if present next to .aedt) ---
+*.aedt.lock
+*.lockinfo

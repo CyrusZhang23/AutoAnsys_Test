@@ -1,0 +1,29 @@
+{
+  "units": "mm",
+  "a": 40.0,
+  "b": 30.0,
+  "L": 100.0,
+  "enable_slot": true,
+  "X": 5.0,
+  "D": 10.0,
+  "offset": 0.0,
+  "simulation": {
+    "setup_name": "Setup1",
+    "sweep_name": "Sweep_1_10GHz",
+    "adaptive_frequency_ghz": 5.0,
+    "sweep_start_ghz": 1.0,
+    "sweep_stop_ghz": 10.0,
+    "sweep_step_ghz": 0.1,
+    "sweep_type": "Discrete",
+    "save_fields": true,
+    "save_rad_fields": false,
+    "body_material": "vacuum",
+    "modes_per_port": 1,
+    "pec_boundary_name": "PEC_WaveguideWalls",
+    "sparam_csv_filename": null,
+    "field_top_freq_ghz": null,
+    "field_top_use_s11_min": true,
+    "field_top_quantity": "Mag_E",
+    "field_top_image_basename": null
+  }
+}

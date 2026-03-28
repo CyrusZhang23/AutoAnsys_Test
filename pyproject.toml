@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "autoansys-test"
+version = "0.1.0"
+description = "Waveguide T-junction tooling (preview, HFSS automation)"
+requires-python = ">=3.11"
+dependencies = [
+    "manifold3d",
+    "matplotlib",
+    "pandas",
+    "pyaedt",
+    "pyvista",
+    "trimesh",
+]
+
+[project.scripts]
+wg-preview = "wg_tee.preview:main"
+wg-hfss = "wg_tee.hfss_build:main"
+wg-solve-export = "wg_tee.hfss_export:main"
+wg-plot-s = "wg_tee.plot_s_params:main"
+wg-run-sim = "wg_tee.run_simulation:main"
+wg-field-top = "wg_tee.hfss_field_export:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
